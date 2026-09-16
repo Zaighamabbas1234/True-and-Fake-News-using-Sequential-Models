@@ -184,3 +184,7 @@ Model performance depends on factors such as:
 * Training/test distribution.
 * Changes in news topics over time.
 Therefore, a model's classification should not be interpreted as independent fact verification.
+
+If you find this repository useful for learning SQL, feel free to **star ⭐ the repository** and explore the examples.
+---
+**Thank you for visiting this repository!**
